@@ -2,6 +2,7 @@
 |-----------------------|------------------------------------------------------------------------------|-----------------------------------|--------------|-----------|
 | Database Schema Design | Defines relational and document-based schema for Smart Clinic architecture | "[DB] Design schema architecture" | schema-design |           |
 
+
 > [!IMPORTANT]  
 > Ensure normalization in SQL design and flexibility in NoSQL design.  
 > Provide justifications and comments to guide future implementation decisions.
