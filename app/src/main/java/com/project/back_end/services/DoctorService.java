@@ -14,7 +14,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 @SuppressWarnings("unused")
-@Service // 1. Mark as a Spring Service
+@Service 
 public class DoctorService {
 
     private final DoctorRepository doctorRepository;
