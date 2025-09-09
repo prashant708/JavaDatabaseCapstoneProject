@@ -2,6 +2,7 @@
 |-----------------------|----------------------------------------------------------------------|-------------------------------|--------------|-----------|
 | Doctor User Stories   | Functional user stories for the doctor role in the Smart Clinic system | "[STORY] Doctor User Stories" | user-stories |           |
 
+
 > [!IMPORTANT]  
 > Define workflows that streamline scheduling and enhance doctor readiness.  
 > Support both availability management and patient context awareness.
